@@ -2,7 +2,7 @@
 
 function hello() {
   // return 'Hello World';
-  return 'Hello Node'
+  return 'Hello Nodejs'
 }
 
 module.exports = hello
